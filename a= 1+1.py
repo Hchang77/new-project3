@@ -1,2 +1,5 @@
-a= 1+1
-print("answer=", a)
+a= 'abc'
+b= 'cef'
+
+print(a+b)
+
